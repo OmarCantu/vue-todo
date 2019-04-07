@@ -1,0 +1,28 @@
+// RESETS
+* {
+  -moz-osx-font-smoothing: grayscale;
+  -webkit-font-smoothing: antialiased;
+  box-sizing: border-box;
+  color: $blue-madison;
+  font-family: 'Avenir', Helvetica, Arial, sans-serif;
+  font-size: 18px;
+}
+
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+ol,
+p,
+ul {
+  margin: 0;
+}
+
+ol,
+ul {
+  list-style-type: none;
+  padding: 0;
+}
