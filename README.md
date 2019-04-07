@@ -1,27 +1,22 @@
-# unittests
+# Vue todos list
+This project is todos list that uses vue as js framework and vuex for state management.
 
-> A Vue.js project
+![](todos.gif)
 
-## Build Setup
+### 1. Technology stack:
 
-``` bash
-# install dependencies
-npm install
+- vue
+- vuex
 
-# serve with hot reload at localhost:8080
-npm run dev
 
-# build for production with minification
-npm run build
+### 2. Requirements:
 
-# build for production and view the bundle analyzer report
-npm run build --report
+- Node.js v10.15.1
+- Yarn v1.10.1
 
-# run unit tests
-npm run unit
 
-# run all tests
-npm test
-```
+### 3. Instructions:
 
-For a detailed explanation on how things work, check out the [guide](http://vuejs-templates.github.io/webpack/) and [docs for vue-loader](http://vuejs.github.io/vue-loader).
+1. Clone repo in your machine
+2. run 'yarn install'
+3. run 'yarn start'
